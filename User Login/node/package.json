@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "mssql": "^8.0.2",
+    "node": "^17.7.2",
+    "nodemon": "^2.0.16"
+  },
+  "name": "nodeapi-for-skiptrace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafi",
+  "license": "ISC",
+  "description": ""
+}
